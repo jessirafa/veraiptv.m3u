@@ -1,0 +1,78 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="canais iptv "
+   
+#EXTINF:-1 tvg-id="globo" tvg-name="globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS",globo
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globosp_cfe21c68_020ad3a08ad54bc5caf6b99bb5e64bea378b6c24/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzI3Mjc4O30%3D
+   
+
+#EXTINF:-1 tvg-id="sbt" tvg-name="sbt" tvg-logo="https://static.sbt.com.br/programas/logos/126.jpg" group-title="CANAIS ABERTOS",sbt
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sbtsp_2a5ac580_51affcc2b3644cc73d280df94e5f5b64085f9f8f/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzQwNjcyO30%3D
+
+
+#EXTINF:-1 tvg-id="ANIMETV" tvg-name="ANIMETV" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="anime",ANIMETV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w589824130.m3u8
+
+
+#EXTINF:-1 tvg-id="disney xd" tvg-name="disney xd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="infantil",disney xd
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/disneyxd_d094700e_e613a39156ffd80ea4fa18506aff6599f076051c/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzIzMDQwO30%3D
+
+
+#EXTINF:-1 tvg-id="univesal channel" tvg-name="universal channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="canais fechados",universal channel
+https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/universalchannel_8290abc6_cd0cf065637430d514f748116b3731557317875a/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzI0MzQ0O30%3D
+
+
+#EXTINF:-1 tvg-id="telecine action" tvg-name="telecine action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="canais fechados",telecine action
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/telecineaction_be057d4c_33a192420df166fc1958f76f524996c28fb3a49d/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzI0ODAyO30%3D
+
+
+#EXTINF:-1 tvg-id="telecine cult" tvg-name="telecine cult" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-hd_m.png" group-title="canais fechados",telecine cult
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/telecinecult_8d255e1e_ca919c3555789d96014ee37fc7fa1c39790f946e/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzI0OTkwO30%3D
+
+
+#EXTINF:-1 tvg-id="telecine fun" tvg-name="telecine fun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="canais fechados",telecine fun
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/telecinefun_ae1e7198_d331763d80002a15d617fa535461fe0e671284f4/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzI1MTgyO30%3D
+
+
+#EXTINF:-1 tvg-id="hbo pop" tvg-name="hbo pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="canais fechados",hbo pop
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/hbopop_ce09b127_fd5ef4ecc57563ede0eebff4905c6a6739e4419f/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzI2MDYyO30%3D
+
+
+#EXTINF:-1 tvg-id="hbo signature" tvg-name="hbo signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="canais fchados",hbo signature
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hbosignature_fa1a6512_2bfe0aabbc7a0dacc4f347e578067912648d3a0e/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzI2MTY1O30%3D
+
+
+#EXTINF:-1 tvg-id="hbo xtreme" tvg-name="hbo xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="canais fchados",hbo xtreme
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hboxtreme_9c676e00_2d89603391e13474fd197d02bc89571a16f20778/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzI2MzI4O30%3D
+
+
+#EXTINF:-1 tvg-id="disney junior" tvg-name="disney junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="canais fechados",disney junior
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/disneyjunior_572e2073_1d193308711292474b7f227d97613f22addf2057/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzQwODA4O30%3D
+
+
+#EXTINF:-1 tvg-id="nick jr" tvg-name="nick jr" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="canais fechados",nick jr
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/nickjr_54ceb912_01829ef078c45626298ef807f3f337f56f6d01b7/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzQxMDMzO30%3D
+
+
+#EXTINF:-1 tvg-id="cartoon network" tvg-name="cartoon network" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="canais fechados",cartoon network
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_96bad7c1f4e78277c8a23004b714a9955ba31d88/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzQxMjM2O30%3D
+
+
+
+#EXTINF:-1 tvg-id="zoomoo" tvg-name="zoomoo" tvg-logo="https://1.bp.blogspot.com/-KB5eJfiaq84/Xtg7dyc38SI/AAAAAAABpBM/AIqrIEvJ3p0K6rioO2m6LEM3B7u4fId3wCLcBGAsYHQ/s640/61041410.png" group-title="infantil",zoomoo
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/zoomookids_9dbb7f83_2f69f752618a5adbe622695c7124af23e7e8a3c7/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzQxNDA0O30%3D
+
+
+#EXTINF:-1 tvg-id="hbo+" tvg-name="hbo+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png" group-title="canais fechados",hbo+
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hboplus_39dfc9ff_6942837cb6ea6bd0b4caae9cde4fd7e2147dbad0/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzQxNTk4O30%3D
+
+
+#EXTINF:-1 tvg-id="hbo2" tvg-name="hbo2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="canais fechados",hbo2
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hbo2_05a53e36_04dbbc8c6bdc0765bb9e9df48fbb86709baaf480/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzQxNzQxO30%3D
+
+
+
+#EXTINF:-1 tvg-id="hbo family" tvg-name="hbo family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="canais fechados",hbo family
+https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/hbofamily_536fb693_cd2cefd5f8742a1fb2f8438591723bd77004a280/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjE5NS4xMzIuNTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIwMzQxODc1O30%3D
+
